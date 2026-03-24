@@ -1,0 +1,14 @@
+{
+  "name": "coetrappers/coetrappers-ai-alt-text",
+  "description": "Starter AI plugin for generating image alt text and captions from media context.",
+  "type": "wordpress-plugin",
+  "license": "GPL-2.0-or-later",
+  "require": {
+    "php": ">=7.4"
+  },
+  "autoload": {
+    "psr-4": {
+      "Coetrappers\\\\CoetrappersAiAltText\\\\": "includes/"
+    }
+  }
+}
