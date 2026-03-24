@@ -1,12 +1,12 @@
-# Coetrappers AI Alt Text
+# Codetrappers AI Alt Text
 
-`coetrappers-ai-alt-text` is a ai-enabled wordpress plugin for the Coetrappers project set.
+`codetrappers-ai-alt-text` is a ai-enabled wordpress plugin for the Codetrappers project set.
 Starter AI plugin for generating image alt text and captions from media context.
 The codebase is scaffolded to be a clean starting point, not a complete production feature.
 
 ## Project Summary
 
-- Slug: `coetrappers-ai-alt-text`
+- Slug: `codetrappers-ai-alt-text`
 - Type: AI-enabled WordPress plugin
 - Focus: ai, media, accessibility
 
@@ -32,8 +32,8 @@ The codebase is scaffolded to be a clean starting point, not a complete producti
 
 ## How To Extend It
 
-- Activate `coetrappers-ai-alt-text` from the Plugins screen.
-- Use `coetrappers-ai-alt-text.php` as the primary bootstrap file for extension work.
+- Activate `codetrappers-ai-alt-text` from the Plugins screen.
+- Use `codetrappers-ai-alt-text.php` as the primary bootstrap file for extension work.
 - Keep feature logic inside dedicated classes rather than expanding the root file.
 
 ## Development Notes
